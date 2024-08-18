@@ -1,4 +1,4 @@
 # DSA
 Data structure  and algorithms  
-hello friends!
+Hello friends!
 This repository  includes various programs implementing different data structures.
